@@ -20,7 +20,7 @@ plt.legend()
 ```
 For more usage examples, please refer to `toyexample_promp.py`.
 ## References
-[1] G. Maeda, M. Ewerton, R. Lioutikov, H. Ben Amor, J. Peters and G. Neumann, "Learning interaction for collaborative tasks with probabilistic movement primitives," 2014 IEEE-RAS International Conference on Humanoid Robots, Madrid, 2014, pp. 527-534.
-[2] A. Sadybakasov, "Generalizing  to  New  Cup  Positions  in the  Game  of  Beer  Pong  Using  Contextual Probabilistic  Movement  Primitives", 2017 Report on Integrated Project: Robot Learning, TU Darmstadt, 2017
-[3] A. Paraschos, G Neumann, C. Daniel, J. Peters, "Probabilistic movement primitives", Advances in NIPS, 2013
-[4] https://github.com/baxter-flowers/promplib
+[1] G. Maeda, M. Ewerton, R. Lioutikov, H. Ben Amor, J. Peters and G. Neumann, "Learning interaction for collaborative tasks with probabilistic movement primitives," 2014 IEEE-RAS International Conference on Humanoid Robots, Madrid, 2014, pp. 527-534.  
+[2] A. Sadybakasov, "Generalizing  to  New  Cup  Positions  in the  Game  of  Beer  Pong  Using  Contextual Probabilistic  Movement  Primitives", 2017 Report on Integrated Project: Robot Learning, TU Darmstadt, 2017  
+[3] A. Paraschos, G Neumann, C. Daniel, J. Peters, "Probabilistic movement primitives", Advances in NIPS, 2013  
+[4] https://github.com/baxter-flowers/promplib  
